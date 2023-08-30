@@ -1,10 +1,5 @@
 # Email-Classification
 
-# Spam-Detection
-A machine learning and data science project to classify spam emails from list of emails. 
-
-![Vehicle-Type-Prediction](image.avif)
-
 Predicting Text messages genuinity using machine learning models.
 
 ## Table of Contents
