@@ -1,6 +1,6 @@
 # Email-Classification
 
-Predicting Text messages genuinity using machine learning models.
+Predicting e-mail messages genuinity using machine learning models.
 
 ## Table of Contents
 - [Installation](#installation)
