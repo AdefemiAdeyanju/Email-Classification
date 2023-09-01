@@ -19,8 +19,8 @@ The project is organized as follows:
 
 - `Spam.csv/`: Contains raw data files.
 - `Spam Detection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
-- `model.pkl/`: Stores trained machine learning models for type prediction.
-- `fast.py/app.py`: A Python script to make predictions using trained models.
+- `gbc.pkl/`: Stores trained machine learning models for type prediction.
+- `app.py`: A Python script to make predictions using trained models.
 - `vectorizer.pkl`: Tfidfvectorizer model.
 - `nltk.txt`: nltk libraries used.
 
