@@ -32,7 +32,7 @@ The project is organized as follows:
 - Trained a Random Forest, Gradient Boosting and MultinomialNB Classifier.
 
 ## Evaluation Metrics
-- Evaluated models using Accurazy Score, Confusion Matrix and Precision Score.
+- Evaluated models using Accuracy Score, Precision Score, and Classification report.
 
 ## Acknowledgments
 - Used the `scikit-learn` library for machine learning models.
