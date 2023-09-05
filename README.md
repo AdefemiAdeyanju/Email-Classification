@@ -29,7 +29,7 @@ The project is organized as follows:
 - Preprocessed data by handling missing values and encoding categorical features.
 
 ## Model Details
-- Trained a Random Forest, Gradient Boosting and MultinomialNB Classifier.
+- Trained a Random Forest, Gradient Boosting and MultinomialNB Classifiers.
 
 ## Evaluation Metrics
 - Evaluated models using Accuracy Score, Precision Score, and Classification report.
