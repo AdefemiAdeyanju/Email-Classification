@@ -21,7 +21,7 @@ The project is organized as follows:
 - `Email Classification.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
 - `gbc.pkl/`: Stores trained machine learning models for type prediction.
 - `app.py`: A Python script to make predictions using trained models.
-- `vectorizer.pkl`: Tfidfvectorizer model.
+- `vectorizer.pkl`: The Tfidfvectorizer model.
 - `nltk.txt`: nltk libraries used.
 
 ## Data Source and Preprocessing
