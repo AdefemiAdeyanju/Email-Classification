@@ -22,7 +22,7 @@ The project is organized as follows:
 - `gbc.pkl/`: Stores trained machine learning models for type prediction.
 - `app.py`: A Python script to make predictions using trained models.
 - `vectorizer.pkl`: The Tfidfvectorizer model.
-- `nltk.txt`: nltk libraries used.
+- `nltk.txt`: The nltk libraries used.
 
 ## Data Source and Preprocessing
 - The dataset is obtained from [Kaggle](https://www.kaggle.com/dataset).
