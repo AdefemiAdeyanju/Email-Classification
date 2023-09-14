@@ -18,7 +18,7 @@ Install the required packages from the `requirements.txt` file:
 The project is organized as follows:
 
 - `mail_spam.csv`: This contains raw data files.
-- `Email Classification.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
+- `Email Classification.ipynb`: Holds Jupyter notebooks used for data analysis and exploration.
 - `gbc.pkl`: Stores trained machine learning models for type prediction.
 - `app.py`: A Python script to make predictions using trained models.
 - `vectorizer.pkl`: The Tfidfvectorizer model.
